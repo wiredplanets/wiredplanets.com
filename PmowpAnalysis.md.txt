@@ -1,0 +1,39 @@
+# PmowpAnalysis.md
+
+## D1 Define Teams
+[] Team
+
+## D2 Define Problem
+[] What?
+[] Why?
+[] Who?
+[] Where?
+[] When?
+[] How?
+[] How much?
+
+## D3 Deliver Containment Actions
+[] Action
+
+## D4 Define Root Cause
+[] Why?
+[] Why?
+[] Why?
+[] Why?
+[] Why?
+
+## D5 Define Corrective Actions
+[] Define
+[] Measure
+[] Analyse
+[] Improve
+[] Control
+
+## D6 Deliver Corrective Actions
+[] Action
+
+## D7 Deliver Preventive Actions
+[] Action
+
+## D8 Deliver Thanks
+[] Thank
