@@ -13,4 +13,4 @@ Name
 [Document]
 
 ## Actions
-[] Action
+[] Assignee : Action
