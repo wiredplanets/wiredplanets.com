@@ -4,7 +4,7 @@
 ID
 
 ## Date
-Date
+dd-dd/Mmm/YYYY
 
 ## Name
 Name
