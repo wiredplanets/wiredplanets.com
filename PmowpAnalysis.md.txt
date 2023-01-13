@@ -4,13 +4,13 @@
 [] Team
 
 ## D2 Define Problem
-[] What?
-[] Why?
-[] Who?
-[] Where?
-[] When?
-[] How?
-[] How much?
+[] What? What is the issue?
+[] Why? Why is this an issue?
+[] Who? Who identified this issue?
+[] Where? Where is this issue located?
+[] When? When was the issue identified?
+[] How? How was the issue identified?
+[] How much? How is this issue quantified?
 
 ## D3 Deliver Containment Actions
 [] Action
@@ -23,17 +23,17 @@
 [] Why?
 
 ## D5 Define Corrective Actions
-[] Define
-[] Measure
-[] Analyse
-[] Improve
-[] Control
+[] Action
 
 ## D6 Deliver Corrective Actions
 [] Action
 
 ## D7 Deliver Preventive Actions
-[] Action
+[] Define
+[] Measure
+[] Analyse
+[] Improve
+[] Control
 
 ## D8 Deliver Thanks
 [] Thank
